@@ -1,14 +1,10 @@
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
 title: Phenomenology Teaching Materials
 description: PhD Seminar — A Phenomenological Approach to Trauma and Resilience
-url: "https://rksinghdu.github.io/phenomenology-teaching-materials"
-baseurl: "/phenomenology-teaching-materials"
 
 # Navigation
 nav_sort: case_insensitive
-
-# Footer
-footer_content: "PhD Seminar · Department of Psychology · Phenomenological Psychology"
 
 # Search
 search_enabled: true
@@ -18,3 +14,11 @@ color_scheme: light
 
 # Heading anchor links
 heading_anchors: true
+
+# Footer
+footer_content: "PhD Seminar &middot; Phenomenological Psychology"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
