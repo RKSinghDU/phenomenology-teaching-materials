@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Module 1 · Philosophical Foundations"
+parent: Lecture Materials
+nav_order: 1
+---
+
 # Module 1 · Philosophical Foundations of Phenomenology
 
 > *"Phenomenology is the science of the essence of consciousness, and all consciousness as consciousness of something is intentional."*
@@ -11,13 +18,13 @@ Phenomenology — from the Greek *phainomenon* (that which appears) and *logos* 
 
 ### Three Essential Clarifications
 
-**Phenomenology is not introspectionism.**
+**Phenomenology is not introspectionism.**  
 Classical introspectionism (Wundt, Titchener) broke experience into sensory elements by trained self-observation. Phenomenology attends to the holistic, structured, intentional character of experience as it naturally unfolds — including its pre-reflective dimensions.
 
-**Phenomenology is not subjectivism.**
+**Phenomenology is not subjectivism.**  
 Phenomenology does not study private mental states sealed inside an individual subject. It studies the structures of consciousness as they relate to a shared, meaningful world.
 
-**Phenomenology is not anti-scientific.**
+**Phenomenology is not anti-scientific.**  
 Phenomenological psychology aims at rigorous, general knowledge — but understands science broadly enough to include first-person, qualitative investigation of meaning alongside third-person, quantitative investigation of mechanism.
 
 ---
@@ -26,31 +33,25 @@ Phenomenological psychology aims at rigorous, general knowledge — but understa
 
 ### Edmund Husserl (1859–1938)
 
-Major contributions:
-- **Intentionality:** Consciousness is always *consciousness of something*. Every mental act is directed toward an object or content.
-- **The Epoché:** The investigator brackets the natural attitude — suspending the assumption that the world is simply 'out there' independently of experience.
+- **Intentionality:** Consciousness is always *consciousness of something*.
+- **The Epoché:** Brackets the natural attitude — suspending the assumption that the world is simply 'out there.'
 - **Eidetic Reduction:** Identifying the essential, invariant structure of a type of experience through *free imaginative variation*.
-- **The Lifeworld (Lebenswelt):** The pre-given, pre-theoretical world of everyday experience underlying all scientific theorising.
+- **The Lifeworld (Lebenswelt):** The pre-given, pre-theoretical world of everyday experience.
 
 ### Martin Heidegger (1889–1976)
 
-Key concepts for trauma phenomenology:
-- **Being-in-the-world:** Human existence is fundamentally embedded, practical engagement with a meaningful environment — not a detached subject confronting an external world.
+- **Being-in-the-world:** Human existence is fundamentally embedded, practical engagement with a meaningful environment.
 - **Thrownness (Geworfenheit):** We are always already thrown into a world we did not choose.
 - **Temporality:** Past thrownness, present engagement, future projection.
 - **Mood (Stimmung):** Pre-reflective attunement to the world.
 
 ### Maurice Merleau-Ponty (1908–1961)
 
-Makes the **lived body** the primary site of experience. The body is not an object we observe from a detached viewpoint, but the *subject* through which we engage with the world.
-
-For trauma: traumatic experience is written into the body's habits, postures, autonomic responses, and perceptual orientations.
+Makes the **lived body** the primary site of experience. The body is the *subject* through which we engage with the world — not a detached object. For trauma: traumatic experience is written into the body's habits, postures, autonomic responses, and perceptual orientations.
 
 ### Emmanuel Levinas (1906–1995)
 
-The encounter with the **Other's face** makes an irreducible moral demand. Relevant to trauma research for:
-- The ethical obligation to bear witness to survivors' suffering.
-- The profound disruption of intersubjectivity that trauma engenders.
+The encounter with the **Other's face** makes an irreducible moral demand — directly relevant to the ethics of witness in trauma research and the disruption of intersubjectivity.
 
 ### Amedeo Giorgi (1931–present)
 
@@ -72,14 +73,14 @@ Noesis and noema are *correlates* — they cannot be separated.
 ### Implications for Trauma Research
 
 - **Trauma as transformed intentionality:** Perception becomes hypervigilant; memory becomes intrusive and involuntary; anticipation becomes foreclosed.
-- **Objects of intentionality in trauma:** The traumatic event becomes a permanent intentional referent structuring the survivor's experiential life.
-- **Meaning-constitution:** Trauma research must attend to how survivors constitute the traumatic event as meaningful.
+- **Permanent intentional referent:** The traumatic event structures the survivor's experiential life even when not consciously attended to.
+- **Meaning-constitution:** Trauma research must attend to how survivors *constitute* the traumatic event as meaningful.
 
 ---
 
 ## 1.4 Core Concept: The Epoché
 
-The epoché temporarily *brackets* the natural attitude — the habitual assumption that the world is simply 'out there,' independent of consciousness. This is not scepticism; it sets aside the question of external existence to attend to how the world presents itself to consciousness.
+The epoché temporarily *brackets* the natural attitude. This is not scepticism — it sets aside the question of external existence to attend to how the world presents itself to consciousness.
 
 ### Epoché in Trauma Research Means:
 
@@ -92,15 +93,15 @@ The epoché temporarily *brackets* the natural attitude — the habitual assumpt
 
 ## 1.5 Core Concept: Eidetic Analysis
 
-Eidetic analysis identifies the essential, invariant structure (*eidos*) of the type of experience under investigation through **free imaginative variation**.
+Eidetic analysis identifies the essential, invariant structure (*eidos*) of a type of experience through **free imaginative variation**.
 
 ### The Six-Step Procedure
 
-1. Begin with a single, concrete, richly described example of the experience.
-2. Mentally vary the features of this example — imaginatively removing or transforming one feature at a time.
+1. Begin with a single, concrete, richly described example.
+2. Mentally vary the features — imaginatively removing or transforming one feature at a time.
 3. Ask: is the experience still an instance of the same kind?
-4. A feature whose removal *preserves* the phenomenon is **non-essential**.
-5. A feature whose removal *transforms or eliminates* the phenomenon is **essential**.
+4. A feature whose removal *preserves* the phenomenon → **non-essential**.
+5. A feature whose removal *transforms or eliminates* the phenomenon → **essential**.
 6. Repeat across many varied instances to arrive at what is invariant.
 
 ### Worked Example: Eidetic Analysis of a Flashback
@@ -118,7 +119,7 @@ Eidetic analysis identifies the essential, invariant structure (*eidos*) of the 
 
 ## 1.6 Levels of Eidetic Generality
 
-Eidetic analysis operates at multiple levels — from very high abstraction ('emotion,' 'memory') to highly specific, contextually bounded levels ('shame in first-generation immigrant adolescents following academic failure'). The investigator must be explicit about the level of generality being sought.
+Eidetic analysis operates at multiple levels — from high abstraction ('emotion,' 'memory') to highly contextual levels ('shame in first-generation immigrant adolescents following academic failure'). The investigator must be explicit about the level of generality being sought.
 
 ---
 
@@ -126,8 +127,8 @@ Eidetic analysis operates at multiple levels — from very high abstraction ('em
 
 1. Husserl argued that consciousness is 'always consciousness of something.' Can you identify a potential counterexample — a state of consciousness that appears to lack intentional directedness? How might a phenomenologist respond?
 2. How does the phenomenological epoché differ from methodological doubt as practised by Descartes? What are the implications for psychological research?
-3. Eidetic analysis claims to yield *necessary*, not merely empirical, generalisation. Is this defensible for psychological phenomena? What objections would a natural-scientific psychologist raise?
-4. Heidegger argued that human beings are always 'thrown' into a world not of their choosing. How does this concept of thrownness illuminate the experience of trauma survivors — particularly those traumatised in childhood?
+3. Eidetic analysis claims to yield *necessary*, not merely empirical, generalisation. Is this defensible for psychological phenomena?
+4. Heidegger argued that human beings are always 'thrown' into a world not of their choosing. How does thrownness illuminate the experience of trauma survivors — particularly those traumatised in childhood?
 
 ---
 
